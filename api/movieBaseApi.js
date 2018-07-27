@@ -62,7 +62,7 @@ var searchMovieByQ = async function (Q, start, count) {
 };
 var MovieTop250 = async function (start, count) {
     if (start == null) start = 0;
-    if (count == null) count = 10;
+    if (count == null) count = 20;
     const url = `http://api.douban.com/v2/movie/top250?start=${start}&count=${count}`;
     let res = await rp(url);
     try {
@@ -87,9 +87,40 @@ var USBox = async function () {
     }
 };
 
+var inTheaters = async function (city, start, count) {
+    if (start == null) start = 0;
+    if (count == null) count = 20;
+    if (city == null) city = "北京";
+    const url = `http://api.douban.com/v2/movie/in_theaters?start=${start}&count=${count}&city=${querystring.escape(city)}`;
+    let res = await rp(url);
+    try {
+        res = JSON.parse(res);
+        console.log(res);
+        return res;
+    } catch (err) {
+        console.log(err);
+    }
+};
+
+var comingSoon = async function (city, start, count) {
+    if (start == null) start = 0;
+    if (count == null) count = 20;
+    if (city == null) city = "北京";
+    const url = `http://api.douban.com/v2/movie/coming_soon?start=${start}&count=${count}&city=${querystring.escape(city)}`;
+    let res = await rp(url);
+    try {
+        res = JSON.parse(res);
+        console.log(res);
+        return res;
+    } catch (err) {
+        console.log(err);
+    }
+};
 module.exports.fetchMovie = fetchMovie;
 module.exports.fetchCelebrity = fetchCelebrity;
 module.exports.searchMovieByTag = searchMovieByTag;
 module.exports.MovieTop250 = MovieTop250;
 module.exports.searchMovieByQ = searchMovieByQ;
 module.exports.USBox = USBox;
+module.exports.inTheaters = inTheaters;
+module.exports.comingSoon = comingSoon;

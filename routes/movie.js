@@ -2,6 +2,7 @@ var express = require('express');
 var router = express.Router();
 var baseApi = require('../api/movieBaseApi');
 var commentApi = require('../api/movieCommentApi');
+var comingApi = require('../api/movieCommingApi');
 router.get('/subjects/:id', async function (req, res, next) {
     var data = await baseApi.fetchMovie(req.params.id);
     // console.log(data);
@@ -44,5 +45,15 @@ router.get('/us_box', async function (req, res, next) {
     var data = await baseApi.USBox();
     res.send(data);
 })
+
+router.get('/in_theaters', async function (req, res, next) {
+    var data = await baseApi.inTheaters(req.query.city, req.query.start, req.query.count);
+    res.send(data);
+});
+
+router.get('/coming_soon', async function (req, res, next) {
+    var data = await comingApi.getComingMovie(req.query.city);
+    res.send(data);
+});
 
 module.exports = router;
