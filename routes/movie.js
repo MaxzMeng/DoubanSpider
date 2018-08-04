@@ -3,6 +3,7 @@ var router = express.Router();
 var baseApi = require('../api/movieBaseApi');
 var commentApi = require('../api/movieCommentApi');
 var comingApi = require('../api/movieCommingApi');
+var likeApi = require('../api/movieLikeApi')
 router.get('/subjects/:id', async function (req, res, next) {
     var data = await baseApi.fetchMovie(req.params.id);
     // console.log(data);
@@ -56,4 +57,8 @@ router.get('/coming_soon', async function (req, res, next) {
     res.send(data);
 });
 
+router.get('/movie_like/:id', async function (req, res, next) {
+    var data = await likeApi.getLikeMovies(req.params.id);
+    res.send(data);
+});
 module.exports = router;
