@@ -5,6 +5,7 @@ var commentApi = require('../api/movieCommentApi');
 var comingApi = require('../api/movieCommingApi');
 var likeApi = require('../api/movieLikeApi');
 var hotApi = require('../api/movieHotApi');
+var cityApi = require('../api/city/cityApi');
 router.get('/subjects/:id', async function (req, res, next) {
     var data = await baseApi.fetchMovie(req.params.id);
     // console.log(data);
@@ -64,6 +65,11 @@ router.get('/movie_like/:id', async function (req, res, next) {
 });
 router.get('/movie_hot', async function (req, res, next) {
     var data = await hotApi.getHotMovies(req.query.page);
+    res.send(data);
+});
+
+router.get('/city', async function (req, res, next) {
+    var data = await cityApi.getCities();
     res.send(data);
 });
 module.exports = router;

@@ -1,0 +1,1990 @@
+[
+  {
+    "id": 1,
+    "name": "北京",
+    "alias": "beijing",
+    "cities": [
+      {
+        "id": 1,
+        "name": "北京",
+        "alias": "beijing"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "上海",
+    "alias": "shanghai",
+    "cities": [
+      {
+        "id": 2,
+        "name": "上海",
+        "alias": "shanghai"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "天津",
+    "alias": "tianjin",
+    "cities": [
+      {
+        "id": 3,
+        "name": "天津",
+        "alias": "tianjin"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "重庆",
+    "alias": "chongqing",
+    "cities": [
+      {
+        "id": 4,
+        "name": "重庆",
+        "alias": "chongqing"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "香港",
+    "alias": "xianggang",
+    "cities": [
+      {
+        "id": 5,
+        "name": "香港",
+        "alias": "xianggang"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "澳门",
+    "alias": "aomen",
+    "cities": [
+      {
+        "id": 6,
+        "name": "澳门",
+        "alias": "aomen"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "台湾",
+    "alias": "taiwan",
+    "cities": [
+      {
+        "id": 7,
+        "name": "台北",
+        "alias": "taibei"
+      },
+      {
+        "id": 8,
+        "name": "高雄",
+        "alias": "gaoxiong"
+      },
+      {
+        "id": 9,
+        "name": "台中",
+        "alias": "taizhong"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "黑龙江",
+    "alias": "heilongjiang",
+    "cities": [
+      {
+        "id": 10,
+        "name": "哈尔滨",
+        "alias": "haerbin"
+      },
+      {
+        "id": 11,
+        "name": "齐齐哈尔",
+        "alias": "qiqihaer"
+      },
+      {
+        "id": 12,
+        "name": "牡丹江",
+        "alias": "mudanjiang"
+      },
+      {
+        "id": 13,
+        "name": "佳木斯",
+        "alias": "jiamusi"
+      },
+      {
+        "id": 14,
+        "name": "绥化",
+        "alias": "suihua"
+      },
+      {
+        "id": 15,
+        "name": "黑河",
+        "alias": "heihe"
+      },
+      {
+        "id": 16,
+        "name": "大兴安岭",
+        "alias": "daxinganling"
+      },
+      {
+        "id": 17,
+        "name": "伊春",
+        "alias": "yichun"
+      },
+      {
+        "id": 18,
+        "name": "大庆",
+        "alias": "daqing"
+      },
+      {
+        "id": 19,
+        "name": "鸡西",
+        "alias": "jixi"
+      },
+      {
+        "id": 20,
+        "name": "鹤岗",
+        "alias": "hegang"
+      },
+      {
+        "id": 21,
+        "name": "双鸭山",
+        "alias": "shuangyashan"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "吉林",
+    "alias": "jilin",
+    "cities": [
+      {
+        "id": 22,
+        "name": "长春",
+        "alias": "changchun"
+      },
+      {
+        "id": 23,
+        "name": "吉林",
+        "alias": "jilin"
+      },
+      {
+        "id": 24,
+        "name": "延吉",
+        "alias": "yanji"
+      },
+      {
+        "id": 25,
+        "name": "四平",
+        "alias": "siping"
+      },
+      {
+        "id": 26,
+        "name": "通化",
+        "alias": "tonghua"
+      },
+      {
+        "id": 27,
+        "name": "白城",
+        "alias": "baicheng"
+      },
+      {
+        "id": 28,
+        "name": "辽源",
+        "alias": "liaoyuan"
+      },
+      {
+        "id": 29,
+        "name": "松原",
+        "alias": "songyuan"
+      },
+      {
+        "id": 30,
+        "name": "白山",
+        "alias": "baishan"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "辽宁",
+    "alias": "liaoning",
+    "cities": [
+      {
+        "id": 31,
+        "name": "沈阳",
+        "alias": "shenyang"
+      },
+      {
+        "id": 32,
+        "name": "大连",
+        "alias": "dalian"
+      },
+      {
+        "id": 33,
+        "name": "鞍山",
+        "alias": "anshan"
+      },
+      {
+        "id": 34,
+        "name": "抚顺",
+        "alias": "fushun"
+      },
+      {
+        "id": 35,
+        "name": "本溪",
+        "alias": "benxi"
+      },
+      {
+        "id": 36,
+        "name": "丹东",
+        "alias": "dandong"
+      },
+      {
+        "id": 37,
+        "name": "锦州",
+        "alias": "jinzhou"
+      },
+      {
+        "id": 38,
+        "name": "营口",
+        "alias": "yingkou"
+      },
+      {
+        "id": 39,
+        "name": "阜新",
+        "alias": "fuxin"
+      },
+      {
+        "id": 40,
+        "name": "辽阳",
+        "alias": "liaoyang"
+      },
+      {
+        "id": 41,
+        "name": "铁岭",
+        "alias": "tieling"
+      },
+      {
+        "id": 42,
+        "name": "朝阳",
+        "alias": "chaoyang"
+      },
+      {
+        "id": 43,
+        "name": "盘锦",
+        "alias": "panjin"
+      },
+      {
+        "id": 44,
+        "name": "葫芦岛",
+        "alias": "huludao"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "内蒙古",
+    "alias": "neimenggu",
+    "cities": [
+      {
+        "id": 45,
+        "name": "呼和浩特",
+        "alias": "huhehaote"
+      },
+      {
+        "id": 46,
+        "name": "包头",
+        "alias": "baotou"
+      },
+      {
+        "id": 47,
+        "name": "乌海",
+        "alias": "wuhai"
+      },
+      {
+        "id": 48,
+        "name": "集宁",
+        "alias": "jining"
+      },
+      {
+        "id": 49,
+        "name": "通辽",
+        "alias": "tongliao"
+      },
+      {
+        "id": 50,
+        "name": "赤峰",
+        "alias": "chifeng"
+      },
+      {
+        "id": 51,
+        "name": "鄂尔多斯",
+        "alias": "eerduosi"
+      },
+      {
+        "id": 52,
+        "name": "临河",
+        "alias": "linhe"
+      },
+      {
+        "id": 53,
+        "name": "锡林浩特",
+        "alias": "xilinhaote"
+      },
+      {
+        "id": 54,
+        "name": "海拉尔",
+        "alias": "hailaer"
+      },
+      {
+        "id": 55,
+        "name": "乌兰浩特",
+        "alias": "wulanhaote"
+      },
+      {
+        "id": 56,
+        "name": "阿左旗",
+        "alias": "azuoqi"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "河北",
+    "alias": "hebei",
+    "cities": [
+      {
+        "id": 57,
+        "name": "石家庄",
+        "alias": "shijiazhuang"
+      },
+      {
+        "id": 58,
+        "name": "保定",
+        "alias": "baoding"
+      },
+      {
+        "id": 59,
+        "name": "张家口",
+        "alias": "zhangjiakou"
+      },
+      {
+        "id": 60,
+        "name": "唐山",
+        "alias": "tangshan"
+      },
+      {
+        "id": 61,
+        "name": "廊坊",
+        "alias": "langfang"
+      },
+      {
+        "id": 62,
+        "name": "沧州",
+        "alias": "cangzhou"
+      },
+      {
+        "id": 63,
+        "name": "衡水",
+        "alias": "hengshui"
+      },
+      {
+        "id": 64,
+        "name": "邢台",
+        "alias": "xingtai"
+      },
+      {
+        "id": 65,
+        "name": "邯郸",
+        "alias": "handan"
+      },
+      {
+        "id": 66,
+        "name": "秦皇岛",
+        "alias": "qinhuangdao"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "河南",
+    "alias": "henan",
+    "cities": [
+      {
+        "id": 67,
+        "name": "郑州",
+        "alias": "zhengzhou"
+      },
+      {
+        "id": 68,
+        "name": "安阳",
+        "alias": "anyang"
+      },
+      {
+        "id": 69,
+        "name": "新乡",
+        "alias": "xinxiang"
+      },
+      {
+        "id": 70,
+        "name": "许昌",
+        "alias": "xuchang"
+      },
+      {
+        "id": 71,
+        "name": "平顶山",
+        "alias": "pingdingshan"
+      },
+      {
+        "id": 72,
+        "name": "信阳",
+        "alias": "xinyang"
+      },
+      {
+        "id": 73,
+        "name": "南阳",
+        "alias": "nanyang"
+      },
+      {
+        "id": 74,
+        "name": "开封",
+        "alias": "kaifeng"
+      },
+      {
+        "id": 75,
+        "name": "洛阳",
+        "alias": "luoyang"
+      },
+      {
+        "id": 76,
+        "name": "商丘",
+        "alias": "shangqiu"
+      },
+      {
+        "id": 77,
+        "name": "焦作",
+        "alias": "jiaozuo"
+      },
+      {
+        "id": 78,
+        "name": "鹤壁",
+        "alias": "hebi"
+      },
+      {
+        "id": 79,
+        "name": "濮阳",
+        "alias": "puyang"
+      },
+      {
+        "id": 80,
+        "name": "周口",
+        "alias": "zhoukou"
+      },
+      {
+        "id": 81,
+        "name": "漯河",
+        "alias": "luohe"
+      },
+      {
+        "id": 82,
+        "name": "驻马店",
+        "alias": "zhumadian"
+      },
+      {
+        "id": 83,
+        "name": "三门峡",
+        "alias": "sanmenxia"
+      },
+      {
+        "id": 84,
+        "name": "济源",
+        "alias": "jiyuan"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "山西",
+    "alias": "shanxi",
+    "cities": [
+      {
+        "id": 85,
+        "name": "太原",
+        "alias": "taiyuan"
+      },
+      {
+        "id": 86,
+        "name": "大同",
+        "alias": "datong"
+      },
+      {
+        "id": 87,
+        "name": "阳泉",
+        "alias": "yangquan"
+      },
+      {
+        "id": 88,
+        "name": "晋中",
+        "alias": "jinzhong"
+      },
+      {
+        "id": 89,
+        "name": "长治",
+        "alias": "changzhi"
+      },
+      {
+        "id": 90,
+        "name": "晋城",
+        "alias": "jincheng"
+      },
+      {
+        "id": 91,
+        "name": "临汾",
+        "alias": "linfen"
+      },
+      {
+        "id": 92,
+        "name": "运城",
+        "alias": "yuncheng"
+      },
+      {
+        "id": 93,
+        "name": "朔州",
+        "alias": "shuozhou"
+      },
+      {
+        "id": 94,
+        "name": "忻州",
+        "alias": "xinzhou"
+      },
+      {
+        "id": 95,
+        "name": "离石",
+        "alias": "lishi"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "山东",
+    "alias": "shandong",
+    "cities": [
+      {
+        "id": 96,
+        "name": "济南",
+        "alias": "jinan"
+      },
+      {
+        "id": 97,
+        "name": "青岛",
+        "alias": "qingdao"
+      },
+      {
+        "id": 98,
+        "name": "淄博",
+        "alias": "zibo"
+      },
+      {
+        "id": 99,
+        "name": "德州",
+        "alias": "dezhou"
+      },
+      {
+        "id": 100,
+        "name": "烟台",
+        "alias": "yantai"
+      },
+      {
+        "id": 101,
+        "name": "潍坊",
+        "alias": "weifang"
+      },
+      {
+        "id": 102,
+        "name": "济宁",
+        "alias": "jining"
+      },
+      {
+        "id": 103,
+        "name": "泰安",
+        "alias": "taian"
+      },
+      {
+        "id": 104,
+        "name": "临沂",
+        "alias": "linyi"
+      },
+      {
+        "id": 105,
+        "name": "菏泽",
+        "alias": "heze"
+      },
+      {
+        "id": 106,
+        "name": "滨州",
+        "alias": "binzhou"
+      },
+      {
+        "id": 107,
+        "name": "东营",
+        "alias": "dongying"
+      },
+      {
+        "id": 108,
+        "name": "威海",
+        "alias": "weihai"
+      },
+      {
+        "id": 109,
+        "name": "枣庄",
+        "alias": "zaozhuang"
+      },
+      {
+        "id": 110,
+        "name": "日照",
+        "alias": "rizhao"
+      },
+      {
+        "id": 111,
+        "name": "莱芜",
+        "alias": "laiwu"
+      },
+      {
+        "id": 112,
+        "name": "聊城",
+        "alias": "liaocheng"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "江苏",
+    "alias": "jiangsu",
+    "cities": [
+      {
+        "id": 113,
+        "name": "南京",
+        "alias": "nanjing"
+      },
+      {
+        "id": 114,
+        "name": "无锡",
+        "alias": "wuxi"
+      },
+      {
+        "id": 115,
+        "name": "镇江",
+        "alias": "zhenjiang"
+      },
+      {
+        "id": 116,
+        "name": "苏州",
+        "alias": "szhou"
+      },
+      {
+        "id": 117,
+        "name": "南通",
+        "alias": "nantong"
+      },
+      {
+        "id": 118,
+        "name": "扬州",
+        "alias": "yangchou"
+      },
+      {
+        "id": 119,
+        "name": "盐城",
+        "alias": "yancheng"
+      },
+      {
+        "id": 120,
+        "name": "徐州",
+        "alias": "xuzou"
+      },
+      {
+        "id": 121,
+        "name": "淮安",
+        "alias": "huaian"
+      },
+      {
+        "id": 122,
+        "name": "连云港",
+        "alias": "lianyungang"
+      },
+      {
+        "id": 123,
+        "name": "常州",
+        "alias": "tongzhou"
+      },
+      {
+        "id": 124,
+        "name": "泰州",
+        "alias": "taizhou"
+      },
+      {
+        "id": 125,
+        "name": "宿迁",
+        "alias": "suqian"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "浙江",
+    "alias": "zhejiang",
+    "cities": [
+      {
+        "id": 126,
+        "name": "杭州",
+        "alias": "hangzhou"
+      },
+      {
+        "id": 127,
+        "name": "湖州",
+        "alias": "huzhou"
+      },
+      {
+        "id": 128,
+        "name": "嘉兴",
+        "alias": "jiaxing"
+      },
+      {
+        "id": 129,
+        "name": "宁波",
+        "alias": "ningbo"
+      },
+      {
+        "id": 130,
+        "name": "绍兴",
+        "alias": "shaoxing"
+      },
+      {
+        "id": 131,
+        "name": "台州",
+        "alias": "taizhou"
+      },
+      {
+        "id": 132,
+        "name": "温州",
+        "alias": "wenzhou"
+      },
+      {
+        "id": 133,
+        "name": "丽水",
+        "alias": "lishui"
+      },
+      {
+        "id": 134,
+        "name": "金华",
+        "alias": "jinhua"
+      },
+      {
+        "id": 135,
+        "name": "衢州",
+        "alias": "quzhou"
+      },
+      {
+        "id": 136,
+        "name": "舟山",
+        "alias": "zhoushan"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "福建",
+    "alias": "fujian",
+    "cities": [
+      {
+        "id": 137,
+        "name": "福州",
+        "alias": "fuzhou"
+      },
+      {
+        "id": 138,
+        "name": "钓鱼岛",
+        "alias": "diaoyudao"
+      },
+      {
+        "id": 139,
+        "name": "厦门",
+        "alias": "xiamen"
+      },
+      {
+        "id": 140,
+        "name": "宁德",
+        "alias": "ningde"
+      },
+      {
+        "id": 141,
+        "name": "莆田",
+        "alias": "putian"
+      },
+      {
+        "id": 142,
+        "name": "泉州",
+        "alias": "quanzhou"
+      },
+      {
+        "id": 143,
+        "name": "漳州",
+        "alias": "zhangzhou"
+      },
+      {
+        "id": 144,
+        "name": "龙岩",
+        "alias": "longyan"
+      },
+      {
+        "id": 145,
+        "name": "三明",
+        "alias": "sanming"
+      },
+      {
+        "id": 146,
+        "name": "南平",
+        "alias": "nanping"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "江西",
+    "alias": "jiangxi",
+    "cities": [
+      {
+        "id": 147,
+        "name": "南昌",
+        "alias": "nanchang"
+      },
+      {
+        "id": 148,
+        "name": "九江",
+        "alias": "jiujiag"
+      },
+      {
+        "id": 149,
+        "name": "上饶",
+        "alias": "shangrao"
+      },
+      {
+        "id": 150,
+        "name": "抚州",
+        "alias": "fuzhou"
+      },
+      {
+        "id": 151,
+        "name": "宜春",
+        "alias": "yichun"
+      },
+      {
+        "id": 152,
+        "name": "吉安",
+        "alias": "jian"
+      },
+      {
+        "id": 153,
+        "name": "赣州",
+        "alias": "ganzhou"
+      },
+      {
+        "id": 154,
+        "name": "景德镇",
+        "alias": "jingdezhen"
+      },
+      {
+        "id": 155,
+        "name": "萍乡",
+        "alias": "pingxiang"
+      },
+      {
+        "id": 156,
+        "name": "新余",
+        "alias": "xinyu"
+      },
+      {
+        "id": 157,
+        "name": "鹰潭",
+        "alias": "yingtan"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "安徽",
+    "alias": "anhui",
+    "cities": [
+      {
+        "id": 158,
+        "name": "合肥",
+        "alias": "hefei"
+      },
+      {
+        "id": 159,
+        "name": "蚌埠",
+        "alias": "bangbu"
+      },
+      {
+        "id": 160,
+        "name": "芜湖",
+        "alias": "wuhu"
+      },
+      {
+        "id": 161,
+        "name": "淮南",
+        "alias": "huainan"
+      },
+      {
+        "id": 162,
+        "name": "马鞍山",
+        "alias": "maanshan"
+      },
+      {
+        "id": 163,
+        "name": "安庆",
+        "alias": "anqing"
+      },
+      {
+        "id": 164,
+        "name": "宿州",
+        "alias": "suzhou"
+      },
+      {
+        "id": 165,
+        "name": "阜阳",
+        "alias": "fuyang"
+      },
+      {
+        "id": 166,
+        "name": "亳州",
+        "alias": "haozhou"
+      },
+      {
+        "id": 167,
+        "name": "黄山",
+        "alias": "huangshan"
+      },
+      {
+        "id": 168,
+        "name": "滁州",
+        "alias": "chuzhou"
+      },
+      {
+        "id": 169,
+        "name": "淮北",
+        "alias": "huaibei"
+      },
+      {
+        "id": 170,
+        "name": "铜陵",
+        "alias": "tongling"
+      },
+      {
+        "id": 171,
+        "name": "宣城",
+        "alias": "yicheng"
+      },
+      {
+        "id": 172,
+        "name": "六安",
+        "alias": "liuan"
+      },
+      {
+        "id": 173,
+        "name": "池州",
+        "alias": "chizhou"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "湖北",
+    "alias": "hubei",
+    "cities": [
+      {
+        "id": 174,
+        "name": "武汉",
+        "alias": "wuhan"
+      },
+      {
+        "id": 175,
+        "name": "襄阳",
+        "alias": "xiangyang"
+      },
+      {
+        "id": 176,
+        "name": "鄂州",
+        "alias": "ezhou"
+      },
+      {
+        "id": 177,
+        "name": "孝感",
+        "alias": "xiaogan"
+      },
+      {
+        "id": 178,
+        "name": "黄冈",
+        "alias": "huanggang"
+      },
+      {
+        "id": 179,
+        "name": "黄石",
+        "alias": "huangshi"
+      },
+      {
+        "id": 180,
+        "name": "咸宁",
+        "alias": "xianning"
+      },
+      {
+        "id": 181,
+        "name": "荆州",
+        "alias": "jinzhou"
+      },
+      {
+        "id": 182,
+        "name": "宜昌",
+        "alias": "yichang"
+      },
+      {
+        "id": 183,
+        "name": "恩施",
+        "alias": "enshi"
+      },
+      {
+        "id": 184,
+        "name": "十堰",
+        "alias": "shiyan"
+      },
+      {
+        "id": 185,
+        "name": "神农架",
+        "alias": "shennongjia"
+      },
+      {
+        "id": 186,
+        "name": "随州",
+        "alias": "suizhou"
+      },
+      {
+        "id": 187,
+        "name": "荆门",
+        "alias": "jinmen"
+      },
+      {
+        "id": 188,
+        "name": "天门",
+        "alias": "tianmen"
+      },
+      {
+        "id": 189,
+        "name": "仙桃",
+        "alias": "xiantao"
+      },
+      {
+        "id": 190,
+        "name": "潜江",
+        "alias": "qianjiang"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "湖南",
+    "alias": "hunan",
+    "cities": [
+      {
+        "id": 191,
+        "name": "长沙",
+        "alias": "changsha"
+      },
+      {
+        "id": 192,
+        "name": "湘潭",
+        "alias": "xiangtan"
+      },
+      {
+        "id": 193,
+        "name": "株洲",
+        "alias": "zhuzhou"
+      },
+      {
+        "id": 194,
+        "name": "衡阳",
+        "alias": "hengyang"
+      },
+      {
+        "id": 195,
+        "name": "郴州",
+        "alias": "chenzhou"
+      },
+      {
+        "id": 196,
+        "name": "常德",
+        "alias": "changde"
+      },
+      {
+        "id": 197,
+        "name": "益阳",
+        "alias": "yiyang"
+      },
+      {
+        "id": 198,
+        "name": "娄底",
+        "alias": "loudi"
+      },
+      {
+        "id": 199,
+        "name": "邵阳",
+        "alias": "shaoyang"
+      },
+      {
+        "id": 200,
+        "name": "岳阳",
+        "alias": "yueyang"
+      },
+      {
+        "id": 201,
+        "name": "张家界",
+        "alias": "zhangjiajie"
+      },
+      {
+        "id": 202,
+        "name": "怀化",
+        "alias": "huaihua"
+      },
+      {
+        "id": 203,
+        "name": "永州",
+        "alias": "yongzhou"
+      },
+      {
+        "id": 204,
+        "name": "吉首",
+        "alias": "jishou"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "广东",
+    "alias": "guangdong",
+    "cities": [
+      {
+        "id": 205,
+        "name": "广州",
+        "alias": "guangzhou"
+      },
+      {
+        "id": 206,
+        "name": "韶关",
+        "alias": "shaoguan"
+      },
+      {
+        "id": 207,
+        "name": "惠州",
+        "alias": "huizhou"
+      },
+      {
+        "id": 208,
+        "name": "梅州",
+        "alias": "meizhou"
+      },
+      {
+        "id": 209,
+        "name": "汕头",
+        "alias": "shantou"
+      },
+      {
+        "id": 210,
+        "name": "深圳",
+        "alias": "shenzhen"
+      },
+      {
+        "id": 211,
+        "name": "珠海",
+        "alias": "zhuhai"
+      },
+      {
+        "id": 212,
+        "name": "顺德",
+        "alias": "deshun"
+      },
+      {
+        "id": 213,
+        "name": "肇庆",
+        "alias": "zhaoqing"
+      },
+      {
+        "id": 214,
+        "name": "湛江",
+        "alias": "zhanjiang"
+      },
+      {
+        "id": 215,
+        "name": "江门",
+        "alias": "jiangmen"
+      },
+      {
+        "id": 216,
+        "name": "河源",
+        "alias": "heyuan"
+      },
+      {
+        "id": 217,
+        "name": "清远",
+        "alias": "qingyuan"
+      },
+      {
+        "id": 218,
+        "name": "云浮",
+        "alias": "yunfu"
+      },
+      {
+        "id": 219,
+        "name": "潮州",
+        "alias": "chaozhou"
+      },
+      {
+        "id": 220,
+        "name": "东莞",
+        "alias": "dongguan"
+      },
+      {
+        "id": 221,
+        "name": "中山",
+        "alias": "zhongshan"
+      },
+      {
+        "id": 222,
+        "name": "阳江",
+        "alias": "yangjiang"
+      },
+      {
+        "id": 223,
+        "name": "揭阳",
+        "alias": "jieyang"
+      },
+      {
+        "id": 224,
+        "name": "茂名",
+        "alias": "maoming"
+      },
+      {
+        "id": 225,
+        "name": "汕尾",
+        "alias": "shanwei"
+      },
+      {
+        "id": 350,
+        "name": "佛山",
+        "alias": "foshan"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "广西",
+    "alias": "guangxi",
+    "cities": [
+      {
+        "id": 226,
+        "name": "南宁",
+        "alias": "nanning"
+      },
+      {
+        "id": 227,
+        "name": "崇左",
+        "alias": "chongzuo"
+      },
+      {
+        "id": 228,
+        "name": "柳州",
+        "alias": "liuzhou"
+      },
+      {
+        "id": 229,
+        "name": "来宾",
+        "alias": "laibin"
+      },
+      {
+        "id": 230,
+        "name": "桂林",
+        "alias": "guilin"
+      },
+      {
+        "id": 231,
+        "name": "梧州",
+        "alias": "wuzhou"
+      },
+      {
+        "id": 232,
+        "name": "贺州",
+        "alias": "hezhou"
+      },
+      {
+        "id": 233,
+        "name": "贵港",
+        "alias": "guigang"
+      },
+      {
+        "id": 234,
+        "name": "玉林",
+        "alias": "yulin"
+      },
+      {
+        "id": 235,
+        "name": "百色",
+        "alias": "baise"
+      },
+      {
+        "id": 236,
+        "name": "钦州",
+        "alias": "qinzhou"
+      },
+      {
+        "id": 237,
+        "name": "河池",
+        "alias": "hechi"
+      },
+      {
+        "id": 238,
+        "name": "北海",
+        "alias": "beihi"
+      },
+      {
+        "id": 239,
+        "name": "防城港",
+        "alias": "fangchenggang"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "海南",
+    "alias": "hainan",
+    "cities": [
+      {
+        "id": 240,
+        "name": "海口",
+        "alias": "haikou"
+      },
+      {
+        "id": 241,
+        "name": "三亚",
+        "alias": "sanya"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "贵州",
+    "alias": "guizhou",
+    "cities": [
+      {
+        "id": 242,
+        "name": "贵阳",
+        "alias": "guiyang"
+      },
+      {
+        "id": 243,
+        "name": "遵义",
+        "alias": "zunyi"
+      },
+      {
+        "id": 244,
+        "name": "安顺",
+        "alias": "anshun"
+      },
+      {
+        "id": 245,
+        "name": "都匀",
+        "alias": "duyun"
+      },
+      {
+        "id": 246,
+        "name": "凯里",
+        "alias": "kaili"
+      },
+      {
+        "id": 247,
+        "name": "铜仁",
+        "alias": "tongren"
+      },
+      {
+        "id": 248,
+        "name": "毕节",
+        "alias": "bijie"
+      },
+      {
+        "id": 249,
+        "name": "水城",
+        "alias": "shuicheng"
+      },
+      {
+        "id": 250,
+        "name": "兴义",
+        "alias": "xingyi"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "云南",
+    "alias": "yunnan",
+    "cities": [
+      {
+        "id": 251,
+        "name": "昆明",
+        "alias": "kunming"
+      },
+      {
+        "id": 252,
+        "name": "大理",
+        "alias": "dali"
+      },
+      {
+        "id": 253,
+        "name": "红河",
+        "alias": "honghe"
+      },
+      {
+        "id": 254,
+        "name": "曲靖",
+        "alias": "qujing"
+      },
+      {
+        "id": 255,
+        "name": "保山",
+        "alias": "baoshan"
+      },
+      {
+        "id": 256,
+        "name": "文山",
+        "alias": "wenshan"
+      },
+      {
+        "id": 257,
+        "name": "玉溪",
+        "alias": "yuxi"
+      },
+      {
+        "id": 258,
+        "name": "楚雄",
+        "alias": "chuxiong"
+      },
+      {
+        "id": 259,
+        "name": "普洱",
+        "alias": "puer"
+      },
+      {
+        "id": 260,
+        "name": "昭通",
+        "alias": "zhaotong"
+      },
+      {
+        "id": 261,
+        "name": "临沧",
+        "alias": "lincang"
+      },
+      {
+        "id": 262,
+        "name": "怒江",
+        "alias": "nujiang"
+      },
+      {
+        "id": 263,
+        "name": "香格里拉",
+        "alias": "xianggelila"
+      },
+      {
+        "id": 264,
+        "name": "丽江",
+        "alias": "lijiang"
+      },
+      {
+        "id": 265,
+        "name": "德宏",
+        "alias": "dehong"
+      },
+      {
+        "id": 266,
+        "name": "景洪",
+        "alias": "jinghong"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "四川",
+    "alias": "sichuan",
+    "cities": [
+      {
+        "id": 267,
+        "name": "成都",
+        "alias": "chengdu"
+      },
+      {
+        "id": 268,
+        "name": "攀枝花",
+        "alias": "panzhihua"
+      },
+      {
+        "id": 269,
+        "name": "自贡",
+        "alias": "zigong"
+      },
+      {
+        "id": 270,
+        "name": "绵阳",
+        "alias": "mianyang"
+      },
+      {
+        "id": 271,
+        "name": "南充",
+        "alias": "nanchong"
+      },
+      {
+        "id": 272,
+        "name": "达州",
+        "alias": "dazhou"
+      },
+      {
+        "id": 273,
+        "name": "遂宁",
+        "alias": "suining"
+      },
+      {
+        "id": 274,
+        "name": "广安",
+        "alias": "guangan"
+      },
+      {
+        "id": 275,
+        "name": "巴中",
+        "alias": "bazhong"
+      },
+      {
+        "id": 276,
+        "name": "泸州",
+        "alias": "luzhou"
+      },
+      {
+        "id": 277,
+        "name": "宜宾",
+        "alias": "yibin"
+      },
+      {
+        "id": 278,
+        "name": "内江",
+        "alias": "neijiang"
+      },
+      {
+        "id": 279,
+        "name": "资阳",
+        "alias": "ziyang"
+      },
+      {
+        "id": 280,
+        "name": "乐山",
+        "alias": "leshan"
+      },
+      {
+        "id": 281,
+        "name": "眉山",
+        "alias": "meishan"
+      },
+      {
+        "id": 282,
+        "name": "凉山",
+        "alias": "liangshan"
+      },
+      {
+        "id": 283,
+        "name": "雅安",
+        "alias": "yaan"
+      },
+      {
+        "id": 284,
+        "name": "甘孜",
+        "alias": "ganzi"
+      },
+      {
+        "id": 285,
+        "name": "阿坝",
+        "alias": "aba"
+      },
+      {
+        "id": 286,
+        "name": "德阳",
+        "alias": "deyang"
+      },
+      {
+        "id": 287,
+        "name": "广元",
+        "alias": "guangyuan"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "西藏",
+    "alias": "xizang",
+    "cities": [
+      {
+        "id": 288,
+        "name": "拉萨",
+        "alias": "lasa"
+      },
+      {
+        "id": 289,
+        "name": "日喀则",
+        "alias": "rikaze"
+      },
+      {
+        "id": 290,
+        "name": "山南",
+        "alias": "shannan"
+      },
+      {
+        "id": 291,
+        "name": "林芝",
+        "alias": "linzhi"
+      },
+      {
+        "id": 292,
+        "name": "昌都",
+        "alias": "changdu"
+      },
+      {
+        "id": 293,
+        "name": "那曲",
+        "alias": "naqu"
+      },
+      {
+        "id": 294,
+        "name": "阿里",
+        "alias": "ali"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "陕西",
+    "alias": "shanxi",
+    "cities": [
+      {
+        "id": 295,
+        "name": "西安",
+        "alias": "xian"
+      },
+      {
+        "id": 296,
+        "name": "三原",
+        "alias": "sanyuan"
+      },
+      {
+        "id": 297,
+        "name": "延长",
+        "alias": "yanchang"
+      },
+      {
+        "id": 298,
+        "name": "榆林",
+        "alias": "yulin"
+      },
+      {
+        "id": 299,
+        "name": "渭南",
+        "alias": "weinan"
+      },
+      {
+        "id": 300,
+        "name": "商洛",
+        "alias": "shangluo"
+      },
+      {
+        "id": 301,
+        "name": "安康",
+        "alias": "ankang"
+      },
+      {
+        "id": 302,
+        "name": "汉中",
+        "alias": "hanzhong"
+      },
+      {
+        "id": 303,
+        "name": "宝鸡",
+        "alias": "baoji"
+      },
+      {
+        "id": 304,
+        "name": "铜川",
+        "alias": "tongchuan"
+      },
+      {
+        "id": 305,
+        "name": "杨凌",
+        "alias": "yangling"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "宁夏",
+    "alias": "ningxia",
+    "cities": [
+      {
+        "id": 306,
+        "name": "银川",
+        "alias": "yinchuan"
+      },
+      {
+        "id": 307,
+        "name": "石嘴山",
+        "alias": "shizuishan"
+      },
+      {
+        "id": 308,
+        "name": "吴忠",
+        "alias": "wuzhong"
+      },
+      {
+        "id": 309,
+        "name": "固原",
+        "alias": "guyuan"
+      },
+      {
+        "id": 310,
+        "name": "中卫",
+        "alias": "zhongwei"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "甘肃",
+    "alias": "gansu",
+    "cities": [
+      {
+        "id": 311,
+        "name": "兰州",
+        "alias": "lanzhou"
+      },
+      {
+        "id": 312,
+        "name": "定西",
+        "alias": "dingxi"
+      },
+      {
+        "id": 313,
+        "name": "平凉",
+        "alias": "pingliang"
+      },
+      {
+        "id": 314,
+        "name": "庆阳",
+        "alias": "qingyang"
+      },
+      {
+        "id": 315,
+        "name": "武威",
+        "alias": "wuwei"
+      },
+      {
+        "id": 316,
+        "name": "金昌",
+        "alias": "jinchang"
+      },
+      {
+        "id": 317,
+        "name": "张掖",
+        "alias": "zhangye"
+      },
+      {
+        "id": 318,
+        "name": "酒泉",
+        "alias": "jiuquan"
+      },
+      {
+        "id": 319,
+        "name": "天水",
+        "alias": "tianshui"
+      },
+      {
+        "id": 320,
+        "name": "武都",
+        "alias": "wudu"
+      },
+      {
+        "id": 321,
+        "name": "临夏",
+        "alias": "linxia"
+      },
+      {
+        "id": 322,
+        "name": "合作",
+        "alias": "hezuo"
+      },
+      {
+        "id": 323,
+        "name": "白银",
+        "alias": "baiyin"
+      },
+      {
+        "id": 324,
+        "name": "嘉峪关",
+        "alias": "jiayuguan"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "青海",
+    "alias": "qinghai",
+    "cities": [
+      {
+        "id": 325,
+        "name": "西宁",
+        "alias": "xining"
+      },
+      {
+        "id": 326,
+        "name": "海东",
+        "alias": "haidong"
+      },
+      {
+        "id": 327,
+        "name": "黄南",
+        "alias": "huangnan"
+      },
+      {
+        "id": 328,
+        "name": "海南",
+        "alias": "hainan"
+      },
+      {
+        "id": 329,
+        "name": "果洛",
+        "alias": "guoluo"
+      },
+      {
+        "id": 330,
+        "name": "玉树",
+        "alias": "yushu"
+      },
+      {
+        "id": 331,
+        "name": "海西",
+        "alias": "haixi"
+      },
+      {
+        "id": 332,
+        "name": "海北",
+        "alias": "haibei"
+      },
+      {
+        "id": 333,
+        "name": "格尔木",
+        "alias": "geermu"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "新疆",
+    "alias": "xinjiang",
+    "cities": [
+      {
+        "id": 334,
+        "name": "乌鲁木齐",
+        "alias": "wulumuqi"
+      },
+      {
+        "id": 335,
+        "name": "克拉玛依",
+        "alias": "kelamayi"
+      },
+      {
+        "id": 336,
+        "name": "石河子",
+        "alias": "shihezi"
+      },
+      {
+        "id": 337,
+        "name": "昌吉",
+        "alias": "jichang"
+      },
+      {
+        "id": 338,
+        "name": "吐鲁番",
+        "alias": "tulufan"
+      },
+      {
+        "id": 339,
+        "name": "库尔勒",
+        "alias": "keerle"
+      },
+      {
+        "id": 340,
+        "name": "阿拉尔",
+        "alias": "alaer"
+      },
+      {
+        "id": 341,
+        "name": "阿克苏",
+        "alias": "akesu"
+      },
+      {
+        "id": 342,
+        "name": "喀什",
+        "alias": "keshen"
+      },
+      {
+        "id": 343,
+        "name": "伊宁",
+        "alias": "yining"
+      },
+      {
+        "id": 344,
+        "name": "塔城",
+        "alias": "tacheng"
+      },
+      {
+        "id": 345,
+        "name": "哈密",
+        "alias": "hami"
+      },
+      {
+        "id": 346,
+        "name": "和田",
+        "alias": "hetian"
+      },
+      {
+        "id": 347,
+        "name": "阿勒泰",
+        "alias": "aletai"
+      },
+      {
+        "id": 348,
+        "name": "阿图什",
+        "alias": "atushen"
+      },
+      {
+        "id": 349,
+        "name": "博乐",
+        "alias": "bole"
+      }
+    ]
+  }
+]
