@@ -72,6 +72,8 @@ rate:评分 满分50
 
 如：http://127.0.0.1:3000/movie/coming_soon?city=beijing
 
+**实践发现该接口切换城市之后内容基本都是一样的，顾可以不加cityName这个参数使用默认的beijing即可**
+
 返回数据同样为一个列表，列表中的单项如下所示
 
 ```json
